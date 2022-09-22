@@ -20,5 +20,3 @@ The corpus includes only the text body. Text recognition is performed using a mo
 ### Jesper Rasmussen Brochmand (1585-1652)
 Published in a winter and summer part in 1635 and 1638.
 The corpus includes text from header, footer, and marginalia in addition to text body. It is possible that it will be replaced with a new version that excludes header, footer, and marginalia to reduce noice, but until the process can be automatized, it will be impossible to make updates to the text, once it has been implemented. Text recognition is performed using a model trained on the first 120 pages of Brochmand's Sabbati Sanctificatio Winter Part (PyLaia HTR; CER 0.70/0.90).
-
-## License
