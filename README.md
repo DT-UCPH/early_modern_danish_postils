@@ -1,6 +1,6 @@
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 # Early Modern Danish Postils
-This repository contains raw data for a growing collection of postils from Early Modern Denmark
+This repository contains raw data for a growing collection of postils from Early Modern Denmark. The data has been collected from digitizations of original sources, primarily through the Early European Books project, and prepared for text mining with [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus).
 
 ## Hans Tausen (1494-1561)
 Published in Danish in a winter and summer part in 1539.
