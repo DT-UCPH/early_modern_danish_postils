@@ -17,6 +17,9 @@ The corpus includes only the text body. Text recognition is performed using a mo
 Published in 1616 in Danish translated from German by Anna Krabbe.
 The corpus includes only the text body. Text recognition is performed using a model adapted from Brochmand's Sabbati Sanctificatio Winter Part (HTR+; CER 0.04/1.80).
 
+## Poul Andersen Medelby (1557-1632)
+Published in Danish in 1621 in a winter and a summer part. Text recognition is performed using a model adapted from Niels Hemmingsen's Postil (HTR+; CER 0.04/0.43).
+
 ### Jesper Rasmussen Brochmand (1585-1652)
 Published in a winter and summer part in 1635 and 1638.
 The corpus includes text from header, footer, and marginalia in addition to text body. It is possible that it will be replaced with a new version that excludes header, footer, and marginalia to reduce noice, but until the process can be automatized, it will be impossible to make updates to the text, once it has been implemented. Text recognition is performed using a model trained on the first 120 pages of Brochmand's Sabbati Sanctificatio Winter Part (PyLaia HTR; CER 0.70/0.90).
