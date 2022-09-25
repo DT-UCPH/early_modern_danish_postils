@@ -9,6 +9,9 @@ The compilation of this repository is an extension of the PhD project Piety and 
 Published in Danish in a winter and summer part in 1539.
 The corpus includes only the text body. Text recognition is performed using a model adapted from Niels Hemmingsen's Postil (HTR+; CER 0.04/0.96). Inital letters have been corrected throughout the postil.
 
+### Martin Luther (1483-1564)
+Published in Danish translation in 1564 by Peder Tidemand. The corpus includes only the text body. Text recognition is performed using a model adapted from Hemmingsen's Postil (HTR+; CER 0.03/0.09).
+
 ### Niels Hemmingsen (1513-1600)
 Published in Latin in 1561 and in Danish translation in 1576 by Rasmus Hansen Reravius
 The corpus includes only the text body. Text recognition is performed using a model adapted from Brochmand's Sabbati Sanctificatio Winter Part (HTR+; CER 0.03/1.27).
