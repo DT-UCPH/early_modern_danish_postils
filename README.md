@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7113232.svg)](https://doi.org/10.5281/zenodo.7113232)
+=======
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7113233.svg)](https://doi.org/10.5281/zenodo.7113233)
+>>>>>>> ce647aefdfab9b5bb5d8022140d538fef7d66f49
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 # Early Modern Danish Postils
 This repository contains raw data for a growing collection of postils from Early Modern Denmark. The data has been collected from digitizations of original sources, primarily through the Early European Books project, and prepared for text mining with [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus).
